@@ -15,6 +15,7 @@
 
 # Godot 4+ specific ignores
 .nomedia
+/android/
 
 # Mono-specific ignores
 .mono/
