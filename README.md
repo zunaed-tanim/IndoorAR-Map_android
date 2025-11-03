@@ -1,6 +1,6 @@
-# **NavinoAR**
+# **IndoorAR Map**
 
-**_android version of NavinoAR - Privacy focused Open Source Offline Indoor AR Navigation App for smart phones_**
+**_android version of IndoorAR Map - Privacy focused Open Source Offline Indoor AR Navigation App. The app respects user data - neither stores user data on the cloud nor shares with third parties_**
 
 ---
 
